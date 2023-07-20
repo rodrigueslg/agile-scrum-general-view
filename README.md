@@ -1,3 +1,7 @@
+# Metodologia Ágil e Scrum
+
+![Alt text](scrum-piada.png)
+
 # O que é ágil?
 Significado de ágil no dicionário [Priberam](https://dicionario.priberam.org/%C3%A1gil)
 
@@ -14,17 +18,23 @@ Significado de ágil no dicionário [Priberam](https://dicionario.priberam.org/%
 
 ### Não!
 
-O modelo cascata é utilizado principalmente quando os requisitos de um determinado problema são bem compreendidos. Cascata funciona bem em ambientes estáveis e com grande previsibilidade.
+O modelo cascata é utilizado, principalmente, quando os requisitos são bem compreendidos. Cascata funciona bem em ambientes muito estáveis e com grande previsibilidade.
 
-### O que é mais fácil, manobrar o Titanic ou uma lancha?
+---
+
 ![](titanic-iceberg.png)
+### O que é mais fácil, manobrar o Titanic ou uma lancha?
 
-### Ser Ágil é responder rápido à mudanças.
 Quando o ambiente é complexo e instável é necessário ter grande capacidade de adaptação.
 
-# Manifesto para Desenvolvimento Ágil de Software
+### **Ser Ágil é responder rápido à mudanças.**
 
-### https://agilemanifesto.org/iso/ptbr/manifesto.html
+---
+
+![](scrum-cascata-meme.png)
+
+---
+# Manifesto para Desenvolvimento Ágil de Software
 
 Estamos descobrindo maneiras melhores de desenvolver
 software, fazendo-o nós mesmos e ajudando outros a
@@ -37,10 +47,8 @@ fazerem o mesmo. Através deste trabalho, passamos a valorizar:
 
 **Ou seja, mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.**
 
-
+Leia mais: [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 ## Doze Princípios do Software Ágil
-### https://agilemanifesto.org/iso/ptbr/principles.html
-
 Nós seguimos estes princípios:
 
 - Nossa maior prioridade é satisfazer o cliente
@@ -87,13 +95,15 @@ emergem de equipes auto-organizáveis.
 se tornar mais eficaz e então refina e ajusta seu
 comportamento de acordo.
 
-# O que é Scrum?
+Leia mais: [Princípios do Software Ágil](https://agilemanifesto.org/iso/ptbr/principles.html)
 
-### https://www.scrum.org/learning-series/what-is-scrum
+# O que é Scrum?
 
 Scrum é um **framework** leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções **adaptativas** para **problemas complexos** de forma **incremental** e **colaborativa**. Pense nisso como uma maneira de fazer o trabalho em equipe em pequenas partes de cada vez, com **experimentos** e **ciclos de feedback** ao longo do caminho.
 
 ![](scrum-ciclo.png)
+
+Leia mais: [Scrum.org](https://www.scrum.org/learning-series/what-is-scrum)
 
 ### Teoria do Scrum
 
@@ -106,18 +116,15 @@ Scrum é baseado no empirismo e lean thinking. O empirismo afirma que o conhecim
 Em suma, Scrum requer um **Scrum Master** para promover um ambiente onde:
 
 1. Um Product Owner ordena o trabalho para um problema complexo em um Product Backlog.
-
 2. O Scrum Team transforma uma seleção do trabalho em um incremento de valor durante uma Sprint.
-
 3. O Scrum Team e seus stakeholders inspecionam os resultados e se ajustam para a próxima Sprint.
-
 4. Repita
 
 ## Scrum Team
 
-A unidade fundamental do Scrum é um **pequeno time de pessoas**, um Scrum Team. O Scrum Team consiste em um **Scrum Master, um Product owner e Developers**. Dentro de um Scrum Team, não há sub-times ou hierarquias. É uma unidade coesa de profissionais focados em um objetivo de cada vez, a Meta do Produto.
+A unidade fundamental do Scrum é um **pequeno time de pessoas**, um **Scrum Team**. O Scrum Team consiste em um **Scrum Master, um Product owner e Developers**. Dentro de um Scrum Team, **não há sub-times ou hierarquias**. É uma unidade coesa de profissionais focados em um **objetivo de cada vez**, a Meta do Produto.
 
-Os Scrum Teams são multifuncionais, o que significa que os membros possuem todas as habilidades necessárias para criar valor a cada Sprint. Eles também são autogerenciáveis, o que significa que decidem internamente quem faz o quê, quando e como.
+Os Scrum Teams são **multifuncionais**, o que significa que os membros possuem **todas as habilidades necessárias para criar valor a cada Sprint**. Eles também são autogerenciáveis, o que significa que **decidem internamente quem faz o quê, quando e como**.
 
 ### Developers
 
@@ -156,6 +163,8 @@ Scrum Masters são verdadeiros líderes que servem ao Scrum Team e à organizaç
 - **Provocando a remoção de impedimentos ao progresso do Scrum Team**; e,
 - **Garantir que todos os eventos Scrum ocorram e sejam positivos, produtivos e mantidos dentro do Timebox**.
 
+![Alt text](scrum-master-meme.png)
+
 ## Eventos Scrum
 
 A Sprint é um contêiner para todos os outros eventos. Cada evento no Scrum é uma oportunidade formal para inspecionar e adaptar os artefatos do Scrum. Esses eventos são projetados especificamente para permitir a transparência necessária.
@@ -166,7 +175,7 @@ Sprints são o coração do Scrum, onde ideias são transformadas em valor.
 
 São eventos de duração fixa de um mês ou menos para criar consistência. **Uma nova Sprint começa imediatamente após a conclusão da Sprint anterior.**
 
-Todo o trabalho necessário para atingir a meta do Produto, incluindo Sprint Planning, Daily Scrums, Sprint Review e Sprint Retrospective, acontece dentro de Sprints.
+**Todo o trabalho** necessário para atingir a meta do Produto, incluindo Sprint Planning, Daily Scrums, Sprint Review e Sprint Retrospective, **acontece dentro de Sprints**.
 
 Durante a Sprint:
 - Nenhuma mudança é feita que coloque em risco a meta da Sprint;
@@ -190,6 +199,12 @@ A Sprint Planning aborda os seguintes tópicos:
 - O que pode ser feito nesta Sprint?
 - Como o trabalho escolhido será realizado?
 
+![](sprint-planning-meme.png)
+
+**Importante!**
+
+Toda sprint, desde a primeira, precisa entregar um incremento que atenda a definição de pronto. Conceitos como Sprints Zero, Sprint de Setup ou Sprint para levantamento de requisitos não estão incluídas no Framework Scrum.
+
 ### Daily Scrum
 
 O propósito da Daily Scrum é inspecionar o progresso em direção a Meta da Sprint e adaptar o Sprint Backlog conforme necessário, ajustando o próximo trabalho planejado.
@@ -200,9 +215,13 @@ A Daily Scrum é um evento de **15 minutos** para os **Developers do Scrum Team*
 
 As Daily Scrums melhoram as comunicações, identificam os impedimentos, promovem a rápida tomada de decisões e consequentemente, reduzem a necessidade de outras reuniões.
 
+![Alt text](daily-scrum-meme.png)
+
 ### Sprint Review
 
 O propósito da Sprint Review é **inspecionar o resultado da Sprint e determinar as adaptações futuras**. O Scrum Team apresenta os resultados de seu trabalho para os **principais stakeholders** e o progresso em direção **a Meta do Produto é discutido**.
+
+![Alt text](sprint-review-meme.png)
 
 ### Sprint Retrospective
 
@@ -211,6 +230,8 @@ O propósito da Sprint Retrospective é planejar maneiras de aumentar a qualidad
 O Scrum Team inspeciona como foi a última Sprint em relação a indivíduos, interações, processos, ferramentas e sua Definição de Pronto.
 
 **A Sprint Retrospective conclui a Sprint.**
+
+![Alt text](sprint-retrospective-meme.png)
 
 ## Artefatos Scrum
 
@@ -248,9 +269,13 @@ O Sprint Backlog é composto pela **Meta da Sprint** (por que), o conjunto de **
 
 *O Sprint Backlog é um plano feito por e para os Developers.*
 
+![Alt text](sprint-backlog-meme.png)
+
 ### Meta da Sprint
 
 A Meta da Sprint é o **único objetivo da Sprint**. A Meta da Sprint cria **coerência e foco**, encorajando o Scrum Team a **trabalhar junto ao invés de iniciativas separadas**.
+
+![Alt text](meta-sprint-meme.png)
 
 ### Incremento
 
@@ -278,6 +303,27 @@ Se um item do Product Backlog não atender à Definição de Pronto, ele **retor
 
 *Se não for um padrão organizacional, o Scrum Team deve criar uma Definição de Pronto apropriada para o produto.*
 
+![Alt text](definicao-de-pronto-meme.png)
+
+
+# Considerações finais
+
+### Teste seu conhecimento
+
+Faça o teste e saiba qual é o seu nível de compreensão de Scrum.
+
+1. [Scrum Open Assessment](https://www.scrum.org/open-assessments/scrum-open)
+2. [Professional Scrum Master Practice Assessment](https://www.thescrummaster.co.uk/assessments/professional-scrum-master-i-psm-i-practice-assessment/)
+
+### Frameworks Ágeis
+
+Scrum é um Framewrok Ágil muito popular, porém não é o único.
+
+![](kanban-scrum-meme.png)
+
+
+Leia mais: [Principais Frameworks Ágeis](https://blog.adapt.works/quais-sao-os-principais-frameworks-ageis/)
+
 # Nota Final
 
 Scrum é gratuito.
@@ -286,6 +332,9 @@ O framework Scrum, conforme descrito no Guia Scrum, é **imutável**. Embora a i
 
 Scrum existe apenas em sua totalidade e funciona bem como um contêiner para outras técnicas, metodologias e práticas.
 
+![Alt text](framework-scrum-meme.png)
+
+---
 # Autor
 
 ![](autor.png)
@@ -294,10 +343,16 @@ Scrum existe apenas em sua totalidade e funciona bem como um contêiner para out
 
 *Software Development Specialst - Encora*
 
-[LinkedIn](https://www.linkedin.com/in/rodrigueslg/)
+- [GitHub](https://github.com/rodrigueslg/)
+- [LinkedIn](https://www.linkedin.com/in/rodrigueslg/)
+- [Instagram](https://www.instagram.com/rodrigueslg_/)
 
-[Instagram](https://www.instagram.com/rodrigueslg_/)
 
+---
+
+![Alt text](final-scrum-meme.png)
+
+---
 
 # Fontes
 - [Dicionário Priberam](https://dicionario.priberam.org/%C3%A1gil)
@@ -305,3 +360,4 @@ Scrum existe apenas em sua totalidade e funciona bem como um contêiner para out
 - [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 - [Scrum.org](https://www.scrum.org/learning-series/what-is-scrum)
 - [Guia Scrum](https://scrumguides.org/index.html)
+- [The Scrum Master](https://www.thescrummaster.co.uk)
