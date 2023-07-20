@@ -136,6 +136,8 @@ Os Developers são **sempre responsáveis por**:
 - Adaptar seu plano a cada dia em direção à meta da Sprint; e,
 - Responsabilizar-se mutuamente como profissionais.
 
+![Alt text](engenheiro-meme.png)
+
 ### Product Owner
 
 O Product Owner é responsável por **maximizar o valor do produto resultante do trabalho do Scrum Team**.
@@ -151,6 +153,8 @@ O Product Owner pode fazer o trabalho acima ou pode delegar a responsabilidade a
 **Importante!**
 
 *O Product Owner, não necessáriamente, é o maior especialista nas questões técnicas e de implementação do produto. Isso é função dos developers.*
+
+![Alt text](product-owner-meme.png)
 
 ### Scrum Master
 
@@ -187,6 +191,8 @@ Durante a Sprint:
 
 Quando o horizonte de uma Sprint é muito longo, a meta da Sprint pode se tornar inválida, a complexidade pode aumentar e o risco pode aumentar. Sprints mais curtas podem ser empregados para gerar mais ciclos de aprendizagem e limitar os riscos de custo e esforço a um período de tempo menor.
 
+![](sprint.png)
+
 ### Sprint Planning
 
 A Sprint Planning **inicia a Sprint ao definir o trabalho a ser realizado na Sprint**. Este plano resultante é criado pelo **trabalho colaborativo de todo o Scrum Team**.
@@ -199,11 +205,11 @@ A Sprint Planning aborda os seguintes tópicos:
 - O que pode ser feito nesta Sprint?
 - Como o trabalho escolhido será realizado?
 
-![](sprint-planning-meme.png)
-
 **Importante!**
 
 Toda sprint, desde a primeira, precisa entregar um incremento que atenda a definição de pronto. Conceitos como Sprints Zero, Sprint de Setup ou Sprint para levantamento de requisitos não estão incluídas no Framework Scrum.
+
+![](sprint-planning-meme.png)
 
 ### Daily Scrum
 
@@ -253,17 +259,19 @@ Os Developers que farão o trabalho são responsáveis pelo dimensionamento. O P
 
 *O Product Backlog refinement é o ato de quebrar e incluir definição adicional aos itens do Product Backlog para ter itens menores e mais precisos. Esta é uma atividade contínua para adicionar detalhes, como descrição, ordem e tamanho.*
 
+![Alt text](product-backlog-meme.png)
+
 ### Compromisso: Meta do Produto
 
 A Meta do Produto descreve um **estado futuro do produto** que pode servir como um alvo para o Scrum Team planejar. **A Meta do produto está no Product Backlog**. O restante do Product Backlog emerge para definir “o que” **cumprirá a Meta do Produto**.
+
+![Alt text](meta-do-produto-meme.png)
 
 ### Sprint Backlog
 
 O Sprint Backlog é composto pela **Meta da Sprint** (por que), o conjunto de **itens do Product Backlog** selecionados para a Sprint (o que), bem como um **plano de ação** para entregar o Incremento (como).
 
 É uma imagem altamente visível, em tempo real do trabalho que os Developers planejam realizar durante a Sprint para atingir a Meta da Sprint. O Sprint Backlog é **atualizado ao longo da Sprint conforme mais é aprendido**. Deve ter detalhes suficientes para que eles possam **inspecionar seu progresso na Daily Scrum**.
-
-
 
 **Importante!**
 
@@ -288,6 +296,8 @@ O trabalho não pode ser considerado parte de um incremento a menos que atenda a
 **Importante**
 
 *A Sprint Review nunca deve ser considerada um marco para liberar valor.*
+
+![Alt text](incremento-meme.png)
 
 ### Compromisso: Definição de Pronto
 
