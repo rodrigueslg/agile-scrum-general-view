@@ -1,4 +1,4 @@
-# Metodologia Ágil e Scrum
+# Metodologia Ágil e Scrum - Uma Visão Geral
 
 ![Alt text](scrum-piada.png)
 
@@ -327,7 +327,7 @@ Faça o teste e saiba qual é o seu nível de compreensão de Scrum.
 
 ### Frameworks Ágeis
 
-Scrum é um Framewrok Ágil muito popular, porém não é o único.
+Scrum é um Framework Ágil muito popular, porém não é o único. Além do Scrum, também temos opções  muito populares como Kanban e XP, entre outros.
 
 ![](kanban-scrum-meme.png)
 
@@ -353,10 +353,15 @@ Scrum existe apenas em sua totalidade e funciona bem como um contêiner para out
 
 *Software Development Specialst - Encora*
 
+![](psm-badge.png)
+
+[Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/1feac9d6-1374-44b0-9fd6-9d192d28b8fd/public_url)
+
+### Me encontre nas redes!
+
 - [GitHub](https://github.com/rodrigueslg/)
 - [LinkedIn](https://www.linkedin.com/in/rodrigueslg/)
 - [Instagram](https://www.instagram.com/rodrigueslg_/)
-
 
 ---
 
