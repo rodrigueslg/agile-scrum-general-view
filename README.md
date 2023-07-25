@@ -1,24 +1,26 @@
 # Metodologia Ágil e Scrum - Uma Visão Geral
 
-![Alt text](scrum-piada.png)
+![](scrum-piada.png)
 
 # O que é ágil?
 Significado de ágil no dicionário [Priberam](https://dicionario.priberam.org/%C3%A1gil)
 
 ![](agil-dicionario.png)
 
-## Ágil vs Cascata
+## Ágil vs Cascata (Waterfall)​
 ![](agil-vs-cascata.png)
 
 ### O modelo Cascata se provou uma estratégia falha ou obsoleta?
 
 - E se surgirem novos requisitos após a fase de levantamentos de requisitos, o que fazemos?
 - E se na fase de verificação e validação for descoberta uma falha ou até mesmo um gap, o que fazemos?
-- Depois que um projeto ou produto é entregue ele está finalizado e o time pode ser desalocado?
+- Depois que um projeto está entregue, o time pode ser desalocado?
 
 ### Não!
 
-O modelo cascata é utilizado, principalmente, quando os requisitos são bem compreendidos. Cascata funciona bem em ambientes muito estáveis e com grande previsibilidade.
+O modelo Cascata é utilizado, principalmente, quando os requisitos são bem compreendidos. Cascata funciona bem em ambientes muito estáveis e com grande previsibilidade.
+
+Projetos simples que não demandam "pivotagem" constante podem adotar Cascata com sucesso.
 
 ---
 
@@ -27,7 +29,7 @@ O modelo cascata é utilizado, principalmente, quando os requisitos são bem com
 
 Quando o ambiente é complexo e instável é necessário ter grande capacidade de adaptação.
 
-### **Ser Ágil é responder rápido à mudanças.**
+### **Ser Ágil é responder rápido às mudanças.**
 
 ---
 
@@ -111,7 +113,7 @@ Scrum é baseado no empirismo e lean thinking. O empirismo afirma que o conhecim
 
 
 
-# Scrum na prática
+# Scrum no Guia
 
 Em suma, Scrum requer um **Scrum Master** para promover um ambiente onde:
 
@@ -120,7 +122,9 @@ Em suma, Scrum requer um **Scrum Master** para promover um ambiente onde:
 3. O Scrum Team e seus stakeholders inspecionam os resultados e se ajustam para a próxima Sprint.
 4. Repita
 
-## Scrum Team
+Leia mais: [Guia Scrum](https://scrumguides.org/scrum-guide.html)
+
+## Time Scrum (Scrum Team)
 
 A unidade fundamental do Scrum é um **pequeno time de pessoas**, um **Scrum Team**. O Scrum Team consiste em um **Scrum Master, um Product owner e Developers**. Dentro de um Scrum Team, **não há sub-times ou hierarquias**. É uma unidade coesa de profissionais focados em um **objetivo de cada vez**, a Meta do Produto.
 
@@ -376,3 +380,4 @@ Scrum existe apenas em sua totalidade e funciona bem como um contêiner para out
 - [Scrum.org](https://www.scrum.org/learning-series/what-is-scrum)
 - [Guia Scrum](https://scrumguides.org/index.html)
 - [The Scrum Master](https://www.thescrummaster.co.uk)
+- [Metodologia ágil em 7 passos](https://newrizon.global/blog/guia-definitivo-desenvolvimento-agil-em-7-passos/)
